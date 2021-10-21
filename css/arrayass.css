@@ -120,9 +120,9 @@
     }
 
     .only-color{
-        width: 330px;
+        width: 250px;
         height: 420px;
-        left: 9em;
+        left: 7em;
     }
 
     .black-card{
@@ -137,7 +137,7 @@
     }
 
     .no-img{
-        width: 350px;
+        width: 300px;
         height: 440px;
     }
 }
